@@ -1,0 +1,105 @@
+/* .text {
+    color: rgba(0, 33, 150, 0.7);
+    text-align: center;
+    font-size: 25px;
+}
+
+[id] {
+    background-color: aqua;
+}
+
+[src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xin7I8Atc4OSd0Ad0hWLZ-aCTmpKOjfE9PE__4beSPnmYOIgZM9xI7CDGOHVNNY0phg&usqp=CAU"] {
+    display: block;
+}
+
+a,
+div {
+    background-color: green;
+}
+
+.btn:hover {
+    background-color: brown;
+    color: aqua;
+}
+
+header .menu {
+    background-color: yellowgreen;
+}
+
+footer>.menu {
+    background-color: blue;
+}
+
+* {
+    font-size: 30px;
+    width: 300px;
+} */
+
+/* #top~p {
+    color: brown;
+}
+
+ul>li {
+    border: 1px solid blue;
+} */
+
+#top {
+    color: green;
+}
+
+#top {
+    color: red;
+}
+
+.paragraph {
+    color: blue !important;
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.block:hover {
+    background-color: brown;
+}
+
+.block:active {
+    background-color: yellow;
+}
+
+*:focus {
+    background-color: darkorange;
+}
+
+input:disabled {
+    background-color: rgba(255, 140, 0, 0.4);
+}
+
+.check:checked+span {
+    color: olivedrab;
+    text-transform: uppercase;
+}
+
+.list {
+    background-color: darkorange;
+    width: 300px;
+    border: 2px solid darkblue;
+}
+
+.item {
+    margin-bottom: 20px;
+}
+
+.item:last-child {
+    margin-bottom: 0;
+}
+
+.item:first-child {
+    background-color: blue;
+}
+
+.item:nth-child(3) {
+    background-color: blue;
+}
